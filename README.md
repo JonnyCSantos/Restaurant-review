@@ -1,4 +1,4 @@
-# Restaurant Reviews - Front-end Web Nanodegree
+# Restaurant Reviews
 
 ## About the project
 
